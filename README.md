@@ -1,10 +1,19 @@
-My Name : Joseph Ilashe Benjamin
 
-My Slackusername : IlasheJ
+**This is a Demo_DevOps stage 0 task. 
 
-This is a Demo_DevOps stage 0 task. 
+# HNG13 DevOps Stage 0
 
-Testing my ability to deploy on the cloud and using git/github.
-Its all about using Nginx to display a page containing our name, slack username and the platform at which it was deployed and the date.
+## Participant Information
+**Name: Joseph Ilashe Benjamin
 
-My Server IP : 44.195.66.80
+**Slack Username: @IlasheJ  
+
+## Project Description
+This project demonstrates the deployment of a custom NGINX web server on a cloud platform. It includes setting up a publicly accessible web server serving custom HTML content on port 80.
+
+## Deployment Details
+**Server IP/Domain: http://44.195.66.80 
+Platform: AWS EC2
+
+**Deployed: 16/10/2025
+
